@@ -1,0 +1,30 @@
+{
+  "project_id": "proj_001",
+  "client": "City Restoration",
+  "date": "2025-12-16",
+  "roof_type": "flat",
+  "system": "Proteus TF torch-on felt",
+  "region": "London",
+  "contract_value_gbp": 28400,
+  "document_types": {
+    "scope_of_works": "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Scope of Works/scope_of_works.pdf",
+    "condition_report": "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Condition Reports/Condition_Report_20251216.pdf",
+    "manufacturer_products_and_pricing": ["Manufactuer Products and Pricing/OS_Ancillary Products_010925.pdf", "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Manufactuer Products and Pricing/OS_Trims_010925.pdf",
+      "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Manufactuer Products and Pricing/Q_2221717_Tradewinds_PFUPB_Profix.pdf", "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Manufactuer Products and Pricing/Q_2221717_Tradewinds, Blocks 1 & 2_PFBUR.pdf"],
+    "product_specification":"/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Product Specification/Product_Specification.pdf",
+    "photos": ["/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Photos/Roof_Image_1.JPG",
+    "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Photos/Roof_Image_2.JPG",
+    "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Photos/Roof_Image_3.JPG",
+    "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Photos/Roof_Image_4.JPG",
+    "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Photos/Roof_Image_5.JPG",
+    "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Photos/Roof_Image_6.JPG",
+    "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Photos/Roof_Image_7.JPG",
+    "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Photos/Roof_Image_8.JPG",
+    "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Photos/Roof_Image_9.JPG"],
+    
+    "labour_rates": "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Labour Rates/labour_rates_2024.xlsx",
+    "self_gen_prices": ["/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Self Generated Prices/Q_Self Generated Works_PFB_Profix.pdf","/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Self Generated Prices/S_Ancillary Products_010925.pdf","/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Self Generated Prices/S_Trims_010925.pdf"],
+    "pricing_sheet": "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Pricing Sheet/Pricing_Sheet.xlsx",
+    "final_tender": "/Users/jacksullivan/Documents/MVP1/Profix Projects/CITY RESTORATION - Tradewinds/Tenders/tender_final.pdf"
+  }
+}
